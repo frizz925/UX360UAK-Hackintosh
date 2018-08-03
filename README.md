@@ -53,7 +53,7 @@ Almost everything
 - FakeSMC_CPUSensors
 - FakeSMC_GPUSensors
 - FakeSMC_LPCSensors
-- FakeSMC (+ sensors)
+- FakeSMC
 - GenericUSBXHCI
 - Lilu
 - NullEthernet
@@ -71,3 +71,4 @@ Almost everything
 - UX360UAK battery patch
 - Disable touchscreen (TPL0) (patch not included but it's trivial to patch manually by overriding \_STA method to return Zero)
 - ZenBooks LidSleep and ScreenBackLight Patch
+- Windows 10 OS patch
