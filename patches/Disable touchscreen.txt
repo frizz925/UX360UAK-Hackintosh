@@ -1,0 +1,9 @@
+# TPL0 Status patch for Asus Zenbook Flip UX360UAK
+# By Frizz925 (https://github.com/Frizz925(
+# This disables the touchscreen so VoodooI2C uses the trackpad (ETPD) instead
+
+into method label _STA parent_label TPL0 replace_content begin
+
+Return (Zero)
+
+end;
