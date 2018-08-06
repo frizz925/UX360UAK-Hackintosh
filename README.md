@@ -69,6 +69,6 @@ Almost everything
 - Fn Brightness Keys
 - KeyboardBacklight Patch 4
 - UX360UAK battery patch
-- Disable touchscreen (TPL0) (patch not included but it's trivial to patch manually by overriding \_STA method to return Zero)
+- Disable touchscreen (TPL0)
 - ZenBooks LidSleep and ScreenBackLight Patch
 - Windows 10 OS patch
